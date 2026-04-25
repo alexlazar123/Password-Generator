@@ -35,8 +35,3 @@ Link to run the password generator below:
 
 ---
 
-**Made by Alex Lazar**  
-19-year-old self-taught developer from the UK  
-Working on small projects while applying to Computer Science / Software Engineering programs.
-
-Feel free to fork or use as inspiration!
