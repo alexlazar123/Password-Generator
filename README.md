@@ -22,7 +22,7 @@ A clean and modern password generator built while learning JavaScript. Customize
 ## 📝 The Process
 
 During this project i tested myself to build a password generator in under 4 hours and i completed the project within 3 hours.
-I wanted to build a tool that's actually useful. This was my second small project and I tried to make it look decent while keeping the code straightforward.
+I wanted to build a tool that's actually useful. This was my second small project and I tried to make it look adequate while keeping the code straightforward.
 The trickiest parts were handling the copy to clipboard feature with a nice visual feedback and adding the length slider with the checkboxes.
 
 ## 🚀 Running the Project
