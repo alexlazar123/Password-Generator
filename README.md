@@ -1,44 +1,46 @@
 # 🔐 Password Generator
 
-A simple and modern password generator I built while learning JavaScript. You can choose the length and what types of characters to include.
+A clean and modern password generator built while learning JavaScript. Customize length and character types to create strong random passwords.
 
 ---
 
 ## 🛠 Technologies
 
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- Tailwind CSS
+- Vanilla JavaScript
 
 ## ✨ Features
 
-- Adjustable password length
-- Options for Uppercase, Lowercase, Numbers and Symbols
-- Instant password generation
-- Copy to clipboard option
-- Added a keyboard shortcut (G) to generate new password
-- Clean dark theme with smooth interactions
+- Adjustable password length from 6 to 32 characters
+- Options: Uppercase, Lowercase, Numbers, Symbols
+- One-click password generation
+- Copy password to clipboard with feedback
+- Keyboard shortcut (press **G** to generate)
+- Responsive dark design
 
 ## 📝 The Process
-During this project i tested myself to build a password generator in under 4 hours and i completed the project within 3 hours.
-I wanted to build a tool that's actually useful. This was my second small project and I tried to make it look decent while keeping the code straightforward. 
+
+This was one of my quick practice projects. I wanted to build something practical and useful after doing the calculator and pomodoro timer. 
+
+I spent around 2 hours on it — figuring out the random generation logic and making the UI feel nice was the main challenge.
 
 ## 🚀 Running the Project
 
 **Live Demo:**  
-[Open Password Generator →](https://fabulous-cannoli-053b08.netlify.app/)  
-*(or open `index.html` directly in your browser)*
+[https://soft-truffle-efe134.netlify.app/](https://soft-truffle-efe134.netlify.app/)
+
+**Or run locally:**  
+Just open `index.html` in your browser.
 
 ## 📸 Preview
 
-![Password Generator](preview.png)
-
-*(Upload your screenshot and name it `preview.png` or update the path above)*
+![Password Generator Preview](https://drive.google.com/uc?id=1LDtgDb8wbIexEBoqencl2CugFg8qUTAA)
 
 ---
 
 **Made by Alex Lazar**  
-19-year-old self-taught web developer from the UK  
-Currently building small projects while applying to Computer Science programs.
+19-year-old self-taught developer from the UK  
+Working on small projects while applying to Computer Science / Software Engineering programs.
 
-Feel free to use, fork, or improve it!
+Feel free to fork or use as inspiration!
