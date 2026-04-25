@@ -1,6 +1,6 @@
-# 🔑 Generator • Alex Lazar
+# 🔐 Password Generator
 
-**A clean and modern password generator** built while learning JavaScript. It creates strong, random passwords with customizable options and a nice dark UI.
+A simple and modern password generator I built while learning JavaScript. You can choose the length and what types of characters to include.
 
 ---
 
@@ -12,40 +12,35 @@
 
 ## ✨ Features
 
-- Custom password length (6–32 characters)
-- Toggle for Uppercase, Lowercase, Numbers, and Symbols
-- One-click Generate button
-- Copy to clipboard with visual feedback
-- Keyboard shortcut (press **G** to generate)
-- Clean, responsive dark design
-- Automatically generates a password on page load
+- Adjustable password length (6 to 32 characters)
+- Options for Uppercase, Lowercase, Numbers, and Symbols
+- Instant password generation
+- One-click copy to clipboard
+- Keyboard shortcut (G) to generate new password
+- Clean dark theme with smooth interactions
 
 ## 📝 The Process
 
-After finishing my calculator and pomodoro timer, I wanted to build something more practical. Most password generators online are either ugly or too complicated, so I made my own in about 2 hours.
+I wanted to build a tool that's actually useful. This was my third small project and I tried to make it look decent while keeping the code straightforward. 
 
-I focused on making the interface simple and pleasant to use. The trickiest part was handling the different character options and making sure it always generates a valid password even if the user deselects everything.
-
-This project helped me practice working with forms, DOM manipulation, and basic logic under a time constraint.
+It was a good exercise in handling user inputs (checkboxes + slider) and generating random strings. Took me roughly 2 hours from start to finish.
 
 ## 🚀 Running the Project
 
-**Option 1: Open locally**  
-Just download the repo and open `index.html` in your browser.
-
-**Option 2: Live Demo**  
-- Netlify: [https://fabulous-cannoli-053b08.netlify.app/](https://fabulous-cannoli-053b08.netlify.app/)  
-*(or your own GitHub Pages link)*
+**Live Demo:**  
+[Open Password Generator →](https://fabulous-cannoli-053b08.netlify.app/)  
+*(or open `index.html` directly in your browser)*
 
 ## 📸 Preview
 
-![Password Generator Preview](./preview.png)
+![Password Generator](preview.png)
 
-*(Replace with your actual screenshot filename if different)*
+*(Upload your screenshot and name it `preview.png` or update the path above)*
 
 ---
 
-**Made by Alex Lazar** — 19-year-old self-taught developer from the UK.  
-Currently learning web development and preparing for Computer Science / Software Engineering university applications.
+**Made by Alex Lazar**  
+19-year-old self-taught web developer from the UK  
+Currently building small projects while applying to Computer Science programs.
 
-Feel free to fork it, improve it, or use it as inspiration for your own projects!
+Feel free to use, fork, or improve it!
