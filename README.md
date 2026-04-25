@@ -6,32 +6,28 @@ A clean and modern password generator built while learning JavaScript. Customize
 
 ## 🛠 Technologies
 
-- HTML5
-- Tailwind CSS
-- Vanilla JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## ✨ Features
 
-- Adjustable password length from 6 to 32 characters
-- Options: Uppercase, Lowercase, Numbers, Symbols
-- One-click password generation
-- Copy password to clipboard with feedback
-- Keyboard shortcut (press **G** to generate)
-- Responsive dark design
+- Adjustable password length
+- Options for Uppercase, Lowercase, Numbers and Symbols
+- Instant password generation
+- Copy to clipboard option
+- Added keyboard shortcut (press **G** to generate new password)
+- Clean dark theme with smooth interactions
 
 ## 📝 The Process
 
-This was one of my quick practice projects. I wanted to build something practical and useful after doing the calculator and pomodoro timer. 
-
-I spent around 2 hours on it — figuring out the random generation logic and making the UI feel nice was the main challenge.
+During this project i tested myself to build a password generator in under 4 hours and i completed the project within 3 hours.
+I wanted to build a tool that's actually useful. This was my second small project and I tried to make it look decent while keeping the code straightforward.
 
 ## 🚀 Running the Project
-
+Link to run the password generator below
 **Live Demo:**  
 [https://soft-truffle-efe134.netlify.app/](https://soft-truffle-efe134.netlify.app/)
-
-**Or run locally:**  
-Just open `index.html` in your browser.
 
 ## 📸 Preview
 
