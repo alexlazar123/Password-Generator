@@ -25,7 +25,7 @@ During this project i tested myself to build a password generator in under 4 hou
 I wanted to build a tool that's actually useful. This was my second small project and I tried to make it look decent while keeping the code straightforward.
 
 ## 🚀 Running the Project
-Link to run the password generator below
+Link to run the password generator below:
 
 [https://soft-truffle-efe134.netlify.app/](https://soft-truffle-efe134.netlify.app/)
 
