@@ -26,7 +26,7 @@ I wanted to build a tool that's actually useful. This was my second small projec
 
 ## 🚀 Running the Project
 Link to run the password generator below
-**Live Demo:**  
+
 [https://soft-truffle-efe134.netlify.app/](https://soft-truffle-efe134.netlify.app/)
 
 ## 📸 Preview
